@@ -38,6 +38,7 @@ Route::redirect('log-in', 'login');
 // Assign middleware "auth"
 // Put one Route Group code line here below
 
+
     // Tasks inside that Authenticated group:
 
     // Task 6: /app group within a group
